@@ -9,6 +9,12 @@
       "distribution": "internal",
       "env": {
         "APP_VARIANT": "development"
+      },
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
       }
     },
     "ios-simulator": {
